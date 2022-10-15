@@ -1,3 +1,3 @@
 # MewOS
 
-Experimental GrapheneOS fork for personal use
+Experimental LineageOS fork for personal use
